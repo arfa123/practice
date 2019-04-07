@@ -1,5 +1,6 @@
 ## First Hello World Rust program build with cargo
-
+>https://www.rust-lang.org/
+>https://doc.rust-lang.org/book/ch00-00-introduction.html
 ### Creating a Project with Cargo:
 Let’s create a new project using Cargo and look at how it differs from our original Hello, world! project. Then, on any operating system, run the following:
 `$ cargo new hello_cargo`
