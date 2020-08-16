@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Ahmed",
+		"email": "ahmed@gamil.com",
+		"age": 21
+	},
+	{
+		"name": "Ali",
+		"email": "ali@gamil.com",
+		"age": 24
+	}
+	{
+		"name": "Mohsin",
+		"email": "Mohsin@gamil.com",
+		"age": 26
+	}
+	{
+		"name": "Wasim",
+		"email": "Wasim@gamil.com",
+		"age": 23
+	}
+]
