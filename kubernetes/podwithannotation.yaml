@@ -1,0 +1,13 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: podwithannotation
+  annotations:
+    createdBy: "Arfa Ahmed"
+    email: "aphahmed@yahoo.com"
+spec:
+  containers:
+  - name: container-new
+    image: aamirpinger/flag:latest
+    ports:
+    - containerPort: 80
